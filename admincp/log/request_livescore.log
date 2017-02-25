@@ -1,0 +1,3 @@
+http://www.xmlsoccer.com/FootballData.asmx/GetLiveScore?ApiKey=LRYQFUEHQVXKSMGFVVJQEHUOFNJHOCSQUQQQCDVSDNRTHLAHNQ
+import 0 match!
+unlink ./data/livescore_2014_10_06.xml
